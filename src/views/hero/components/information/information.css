@@ -1,0 +1,22 @@
+.hero-information {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  color: white;
+  width: 45%;
+  gap: 2.8rem;
+}
+
+.hero-information .information-hello {
+  font-size: 2.2rem;
+  font-weight: 500;
+}
+.hero-information h2 {
+  font-size: 5rem;
+  font-weight: 600;
+  line-height: 1;
+}
+.hero-information .information-presentation {
+  font-size: 2rem;
+  font-weight: 400;
+}

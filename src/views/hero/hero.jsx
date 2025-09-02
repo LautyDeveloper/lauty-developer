@@ -1,8 +1,15 @@
-import React from 'react'
-import Header from './components/header/header'
+import React from "react";
+import Header from "./components/header/header";
+import Information from "./components/information/information";
+import "./hero.css";
 
 export default function Hero() {
   return (
-    <Header />
-  )
+    <div className="hero-container">
+      <Header />
+      <div className="hero-content">
+        <Information />
+      </div>
+    </div>
+  );
 }

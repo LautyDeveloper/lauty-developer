@@ -1,0 +1,23 @@
+.buttons-container {
+  display: flex;
+  align-items: center;
+  width: auto;
+  gap: 40px;
+}
+.buttons-container button {
+  width: 200px;
+  height: 50px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  font-size: 1.2rem;
+}
+.buttons-container .button-primary {
+  background-color: var(--accentColor);
+  color: var(--fontColor);
+}
+.buttons-container .button-secondary {
+  background-color: transparent;
+  color: var(--fontColor);
+  border: 2px solid var(--accentColor);
+}

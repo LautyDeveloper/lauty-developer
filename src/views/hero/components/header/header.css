@@ -24,6 +24,7 @@ header nav ul {
   display: flex;
   justify-content: space-between;
   gap: 50px;
+  list-style: none;
 }
 header nav ul li a {
   text-decoration: none;
