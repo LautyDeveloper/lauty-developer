@@ -1,0 +1,16 @@
+.profile-pic-container {
+  background-color: transparent;
+  width: 550px;
+  height: 550px;
+  border-radius: 100%;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+  border: 2px solid var(--accentColor);
+}
+.profile-pic-container img {
+  width: 450px;
+  height: 450px;
+  object-fit: cover;
+  border-radius: 100%;
+}

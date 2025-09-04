@@ -1,11 +1,14 @@
-import './App.css'
-import Hero from './views/hero/hero'
+import "./App.css";
+import Hero from "./views/hero/hero";
+import Projects from "./views/projects/projects";
 
 function App() {
-
   return (
-    <Hero />
-  )
+    <>
+      <Hero />
+      <Projects />
+    </>
+  );
 }
 
-export default App
+export default App;

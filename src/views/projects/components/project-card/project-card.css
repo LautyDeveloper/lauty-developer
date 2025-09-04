@@ -1,0 +1,40 @@
+.project-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: 460px;
+  width: 30%;
+}
+.large {
+  width: 60%;
+}
+
+.project-card img {
+  height: 325px;
+  width: 100%;
+  background-color: white;
+  border-radius: 30px;
+}
+
+.project-card .project-card-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: var(--fontColor);
+  height: 120px;
+}
+
+.project-card .project-card-text .project-title {
+  font-size: 1.8rem;
+  display: flex;
+  gap: 10px;
+}
+.project-card .project-card-text .project-title a {
+  color: var(--accentColor);
+  text-decoration: none;
+}
+.project-card .project-card-text p {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
