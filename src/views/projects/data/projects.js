@@ -11,17 +11,17 @@ const projects = [
   },
   {
     id: 2,
-    title: "Shoes E-commerce",
+    title: "BueloApp",
     description:
-      "Tienda online de calzado femenino con carrito de compras, favoritos y pasarela de pagos integrada.",
+      "BueloApp es una plataforma web que ayuda a las familias a organizar turnos, medicaciones y notas para el cuidado de sus abuelos de forma simple y colaborativa.",
     image: "/images/shoes-ecommerce.png",
     link: "https://github.com/tuusuario/shoes-ecommerce",
   },
   {
     id: 3,
-    title: "Crypto Dashboard",
+    title: "S.G.D.P",
     description:
-      "Dashboard para visualizar precios y transacciones de criptomonedas en tiempo real, con gráficos interactivos.",
+    "El S.G.P.D es un sistema que organiza el préstamo de dispositivos en instituciones, registrando qué curso y profesor retira cada equipo para mantener un control claro y ordenado.",
     image: "/images/crypto-dashboard.png",
     link: "https://github.com/tuusuario/crypto-dashboard",
   },
