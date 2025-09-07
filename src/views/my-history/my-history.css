@@ -1,0 +1,13 @@
+.my-history-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: start;
+  padding: 50px 60px;
+  gap: 30px;
+}
+
+.my-history-container p {
+  font-size: 1.5rem;
+  color: var(--fontColor);
+}
