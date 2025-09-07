@@ -4,7 +4,7 @@ import SectionsTitle from "../../components/sections-title/sections-title.jsx";
 export default function Experience() {
   return (
     <div id="experience">
-      <SectionsTitle title="Experience" />
+      <SectionsTitle title="Experiencia" />
       <div className="experience-container">
         <div className="experience-title">
           <span>Tecnica 5</span>

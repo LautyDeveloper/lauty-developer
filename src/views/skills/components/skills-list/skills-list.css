@@ -1,0 +1,20 @@
+.skills-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: var(--fontColor);
+  gap: 20px;
+}
+.skills-list h3 {
+  font-size: 2rem;
+}
+.skills-list ul {
+  list-style: none;
+  font-size: 1.2rem;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: center;
+}
