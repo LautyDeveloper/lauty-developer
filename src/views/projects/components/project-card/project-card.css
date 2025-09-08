@@ -10,11 +10,24 @@
   width: 60%;
 }
 
-.project-card img {
-  height: 325px;
+.project-card .project-image-container {
   width: 100%;
-  background-color: white;
+  height: 325px;
+  overflow: hidden;
   border-radius: 30px;
+  margin-bottom: 15px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.project-card .project-image-container img {
+  height: 80%;
+  width: 400px;
+  border-radius: 10px;
 }
 
 .project-card .project-card-text {
