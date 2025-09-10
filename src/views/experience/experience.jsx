@@ -16,17 +16,17 @@ export default function Experience() {
           </div>
           <div className="information-body">
             <p>
-              Developed and shipped highly interactive web applications for
-              Apple Music using Ember.js
+              Desarrollé aplicaciones web completas utilizando HTML, CSS,
+              JavaScript, React, Node.js y bases de datos como MySQL y MongoDB.
             </p>
             <p>
-              Built and shipped the Apple Music Extension within Facebook
-              Messenger leveraging third-party and internal APIs
+              Participé en el diseño, bocetado y maquetado de interfaces
+              aplicando principios de usabilidad y experiencia de usuario.
             </p>
             <p>
-              Contributed extensively to MusicKit.js, a JavaScript framework
-              that allows developers to add an Apple Music player to their web
-              apps
+              Fortalecí habilidades blandas como el trabajo en equipo, la
+              organización de tareas, el liderazgo en proyectos colaborativos y
+              la oratoria al presentar proyectos.
             </p>
           </div>
         </div>

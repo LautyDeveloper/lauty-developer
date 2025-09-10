@@ -12,3 +12,7 @@ body {
 .accent-color {
   color: var(--accentColor);
 }
+
+a:hover {
+  color: var(--accentColor);
+}

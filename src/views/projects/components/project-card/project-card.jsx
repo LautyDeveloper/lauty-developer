@@ -1,5 +1,7 @@
 import React from "react";
 import "./project-card.css";
+import { CircleArrowOutUpRight } from "lucide-react";
+
 export default function ProjectCard({ project, isLarge }) {
   return (
     <div className={isLarge ? "project-card large" : "project-card"}>
@@ -17,7 +19,9 @@ export default function ProjectCard({ project, isLarge }) {
       <div className="project-card-text">
         <div className="project-title">
           <h3>{project.title}</h3>
-          <a href="">→</a>
+          <a href={project.link} target="_blank" rel="noopener noreferrer">
+            <CircleArrowOutUpRight />
+          </a>
         </div>
         <p>{project.description}</p>
       </div>

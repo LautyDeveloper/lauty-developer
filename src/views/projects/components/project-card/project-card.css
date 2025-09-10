@@ -46,6 +46,8 @@
 .project-card .project-card-text .project-title a {
   color: var(--accentColor);
   text-decoration: none;
+  display: grid;
+  place-items: center;
 }
 .project-card .project-card-text p {
   font-size: 1.2rem;

@@ -4,37 +4,37 @@ const skills = [
   {
     title: "Diseño Web",
     skills: [
-      "UX/UI Design",
+      "Diseño UX/UI",
       "Responsive Design",
       "Wireframing",
-      "User Research",
+      "Bocetado en Figma",
     ],
   },
   {
     title: "FrontEnd",
     skills: [
-      "UX/UI Design",
-      "Responsive Design",
-      "Wireframing",
-      "User Research",
+      "HTML 5",
+      "CSS 3",
+      "JavaScript ES6+",
+      "ReactJS",
     ],
   },
   {
     title: "BackEnd",
     skills: [
-      "UX/UI Design",
-      "Responsive Design",
-      "Wireframing",
-      "User Research",
+      "PHP",
+      "NodeJS",
+      "MongoDB",
+      "MySQL",
     ],
   },
   {
     title: "Habilidades Blandas",
     skills: [
-      "UX/UI Design",
-      "Responsive Design",
-      "Wireframing",
-      "User Research",
+      "Trabajo en Equipo",
+      "Liderazgo",
+      "Asignacion de Tareas Eficientes",
+      "Oratoria y presentación de proyectos",
     ],
   },
 ];
